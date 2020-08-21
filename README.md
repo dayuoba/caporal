@@ -1,6 +1,6 @@
 # Caporal 
 
-a remote api server for schedule docker jobs.
+a remote api server for scheduling docker jobs.
 
 this can work with [dotam](https://github.com/deoops-net/dotam) smoothly
 
